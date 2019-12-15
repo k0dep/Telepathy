@@ -1,0 +1,9 @@
+{
+    "name": "com.kodep.telepathy",
+    "version": "1.0.0",
+    "displayName": "Telepathy",
+    "author": "Vis2K; Paul; Stanislav Petrov @k0dep <sv.petrov@kodep.pro>",
+    "description": "TCP based transport for use in Unity",
+    "dependencies": {},
+    "unity": "2018.1"
+  }
